@@ -1,0 +1,298 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>sweetcake</title>
+  <link rel="stylesheet" href="all.css">
+  <link rel="stylesheet" href="lost.css">
+	<link rel="stylesheet" href="header.css">
+ </head>
+ <body>
+	 <header id="header">
+	   
+			
+	 </header>
+	 <section>
+		 <aside>
+		  <ul>
+		    <li><a href="">黄油类</a></li>
+				<li><a href="">奶油类</a></li>
+				<li><a href="">蛋白类</a></li>
+				<li><a href="">曲奇饼类</a></li>
+				<li><a href="">油炸类</a></li>
+				<li><a href="">糕点类</a></li>
+				<li><a href="">面粉类</a></li>
+				<li><a href="">蔓越莓曲奇</a></li>
+				<li><a href="">苏打饼</a></li>
+				<li><a href="">芝士</a></li>
+				<li><a href="">布朗尼</a></li>
+				<li><a href="">黑森林</a></li>
+				<li><a href="">芒果千层</a></li>
+				<li><a href="">提拉米苏</a></li>
+		  </ul>
+		 </aside>
+		 <div id="banner">
+		   
+		   <a  class="a1" href=""><img src="img/left.png" alt=""></a>
+		   <a  class="a2" href=""><img src="img/right.png" alt=""></a>
+			 <ul class="round">
+			   <li class="liheader"><img src="img/01.jpg" alt=""></li>
+			   <li><img src="img/02.jpg" alt=""></li>
+			   <li><img src="img/03.jpg" alt=""></li>
+			   <li><img src="img/04.jpg" alt=""></li>
+			   <li><img src="img/05.jpg" alt=""></li>
+			 </ul>
+			 <p></p>
+		   <ul class="point">
+				 <li></li>
+				 <li></li>
+				 <li></li>
+				 <li></li>
+				 <li></li>
+				 <li></li>
+		   </ul>
+		 </div>
+		 <div id="ppshow">
+		   <!--<div class="show1">
+			   <div class="haddle"> * </div>
+			    <a href="shopin.html "><img src="*" alt=""></a>
+			 </div>
+			 <div class="show2">
+			    <div class="haddle"> *</div>
+			    <a href=""><img src="*" alt=""></a>
+			 </div>
+			 <div class="show3">
+			    <div class="haddle"> * </div>
+			    <a href=""><img src="img/s03.jpg" alt=""></a>
+
+			 </div>
+			 <div class="show4">
+			    <div class="haddle"> * </div>
+			    <a href=""><img src="img/s04.jpg" alt=""></a>
+			 </div>-->
+			 
+
+		 </div> 
+	 </section>
+	 <div id="floor1"><b>精品展示</b></div>
+	   <div id="rside">
+		    <div id="lxwm">
+				   <a href="" class="a1">
+					   <img src="img/duan1.png" alt="">
+					 </a>
+					 <span class="hidden1">我的账户
+					 </span>
+				</div>
+				<div id="lxwm2">
+				  
+				   <a href="">
+					   <img src="img/duan2.png" alt="">
+					 </a>
+					 <span class="hidden2">我的收藏
+					 </span>
+				</div>
+				<div id="lxwm3">
+				   <a href="dogcar.html">
+					   <img src="img/duan3.png" alt="">
+					 </a>
+					 <span class="hidden3">我的购物车
+					 </span>
+				</div>
+				<div id="lxwm4">
+				   <a href="">
+					   <img src="img/duan4.png" alt="">
+					 </a>
+					 <span class="hidden4">我的账单
+					 </span>
+					 
+				</div>
+				<div id="lxwm5">
+				   <a href="">
+					    <img src="img/duan5.png" alt="">
+					 </a>
+					 <span class="hidden5">二维码
+					 </span>
+				</div>
+		 </div>
+	   <div id="list">
+		  <div>
+				<ul>
+				  <li class="li1">
+					  <a href="">本周热推</a>
+						<div class="retui1">
+						  <ul>
+							  <li><a href="">提拉米苏</a></li>
+								<li><a href="">油炸冰淇淋</a></li>
+								<li><a href="">冰火爱河</a></li>
+								<li><a href="">拔丝千层</a></li>
+							</ul>
+						</div>
+					</li>
+					<li class="li2">
+					  <a href="">折扣商品</a>
+						<div class="retui2">
+						  <ul>
+							  <li><a href="">新品折扣</a></li>
+								<li><a href="">团体折扣</a></li>
+								<li><a href="">卷票折扣</a></li>
+								<li><a href="">重口味折扣</a></li>
+							</ul>
+						</div>
+					</li>
+					<li class="li3">
+					  <a href="">新货上架</a>
+						<div class="retui3">
+						  <ul>
+							  <li><a href="">火与冰系列</a></li>
+								<li><a href="">爱与恨系列</a></li>
+								<li><a href="">伤春悲秋系列</a></li>
+								<li><a href="">重口味系列</a></li>
+							</ul>
+						</div>
+					</li>
+					<li class="li4">
+					  <a href="">套餐选择</a>
+						<div class="retui4">
+						  <ul>
+							  <li><a href="">每日下午茶</a></li>
+								<li><a href="">开心甜点</a></li>
+								<li><a href="">胡吃海喝</a></li>
+								<li><a href="">不忍动口</a></li>
+							</ul>
+						</div>
+					</li>
+					<li class="li5">
+					  <a href="" class="star">明星相配</a>
+						<div class="retui5">
+						  <ul>
+							  <li><a href="">范冰冰最爱</a></li>
+								<li><a href="">鹿晗的蔡</a></li>
+								<li><a href="">胡歌亲手同款</a></li>
+								<li><a href="">TWUNIs曾计划</a></li>
+							</ul>
+						</div>
+					</li>
+				</ul>
+			</div>
+			 <div id="cup">
+ 		<!--	    <div class="fire1">
+ 					   <a href=""><img src="img/07.jpg" alt=""></a>
+ 						 <h3>￥33.5</h3>
+ 						 <h4><a href="">会员7折</a></h4>
+ 						 <p>
+ 						   <a class="a1">-</a>
+ 							 <input type="text" placeholder="0" value="0">
+ 							 <a class="a2">+</a>
+ 						</p>
+
+ 					</div>
+ 					<div class="fire1">
+ 					   <a href=""><img src="img/08.jpg" alt=""></a>
+ 						 <h3>￥43.5</h3>
+ 						 <h4><a href="">会员7折</a></h4>
+ 						 <p>
+ 						   <a class="a1">-</a>
+ 							 <input type="text" placeholder="0"value="0">
+ 							 <a class="a2">+</a>
+ 						 </p>
+ 					</div>
+ 					<div class="fire1">
+ 					   <a href=""><img src="img/09.jpg" alt=""></a>
+ 						 <h3>￥88.5</h3>
+ 						 <h4><a href="">会员7折</a></h4>
+ 						 <p>
+ 						   <a class="a1">-</a>
+ 							 <input type="text" placeholder="0" value="0">
+ 							 <a class="a2">+</a>
+ 							</p>
+ 					</div >
+ 					<div class="fire1">
+ 					   <a href=""><img src="img/10.jpg" alt=""></a>
+ 						 <h3>￥40.5</h3>
+ 						 <h4><a href="">会员7折</a></h4>
+ 						 <p>
+ 						   <a class="a1">-</a>
+ 							 <input type="text" placeholder="0" value="0">
+ 							 <a class="a2">+</a>
+ 							</p>
+ 					</div>
+ 					<div class="fire1">
+ 					   <a href=""><img src="img/11.jpg" alt=""></a>
+ 						 <h3>￥38.5</h3>
+ 						 <h4><a href="">会员7折</a></h4>
+ 						 <p>
+ 						   <a class="a1">-</a>
+ 							 <input type="text" placeholder="0" value="0" >
+ 							 <a class="a2">+</a>
+ 							</p>
+ 					</div>
+ 					<div class="fire1">
+ 					   <a href=""><img src="img/12.jpg" alt=""></a>
+ 						 <h3>￥99.5</h3>
+ 						 <h4><a href="">会员7折</a></h4>
+ 						 <p>
+ 						   <a class="a1">-</a>
+ 							 <input type="text" placeholder="0" value="0">
+ 							 <a class="a2">+</a>
+ 						 </p>
+ 					</div>-->
+					
+		 
+		 </div>
+		  <p id="page">
+			 
+			</p>
+		 
+		 </div>
+<div id="floor1"><b>更多展示</b></div>
+<div id="lost">
+		<a href="" class="a1"><img src="img/left.png" alt=""></a>
+        <a href="" class="a2"><img src="img/right.png" alt=""></a>
+		<a href="">
+		  <div class="long">
+		   <img src="img/13.jpg" alt="">
+		   <img src="img/14.jpg" alt="">
+		   <img src="img/15.jpg" alt="">
+		   <img src="img/16.jpg" alt="">
+		   <img src="img/17.jpg" alt="">
+		   <img src="img/19.jpg" alt="">
+		  </div>
+		</a>
+
+      <p>
+	    <a href="">更多美食更多精彩</a>
+	  </p>
+   
+
+</div>
+<footer>
+    <a href=""><img src="png/ft1.jpg" alt=""></a>
+    <div>
+	
+		 <p>全力做好网上治安秩序打击整治专项行动，打造晴朗网络空间</p>
+		 <p><a href="">网站地图</a> | 
+		    <a href="">联系我们 </a>| 
+			<a href="">广告服务 </a>|
+			<a href="">诚聘英才 </a>|
+			<a href=""> 用户服务协议</a> |
+			<a href="">隐私政策 </a>|
+			<a href=""> 网站免责声明</a> | 
+			<a href="">网站著作保护声明</a> | 
+		 </p>
+		 <p>湖南长沙龙博甜品有限公司版权所有 网络文化经营许可证： <a href="">京网文[2015]0525-205号 信息网络传播视听节目许可证0109362号 增值电信业务经营许可证B2-20090418 京ICP证060261号</a></p>
+		 <p>广播电视节目制作经营许可证京字第2037号 营业性演出许可证京市演1574  京公网安备 11010502030216号  京ICP备09014827号</p>
+    </div>
+</footer>
+
+ </body> 
+ <script src="js/ajax.js"></script>
+ <script src="js/header.js"></script>
+ <script src="js/first.js"></script>
+ 
+ 
+
+</html>

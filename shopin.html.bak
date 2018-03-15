@@ -1,0 +1,108 @@
+<!doctype html>
+<html >
+ <head>
+  <meta charset="UTF-8">
+  <title></title>
+	<link rel="stylesheet" href="shopin.css">
+	<link rel="stylesheet" href="rside.css">
+	<link rel="stylesheet" href="header.css">
+	<link rel="stylesheet" href="foot.css">
+ </head>
+ <body>
+  	<header id="header"></header>
+    <div id="max">
+		     <div class="sp1">
+				      <img src="${p.img}" alt="">
+				 </div>
+				 <div class="spp">
+						 <h1>${p.ename}</h1>
+						 <h3>${p.det}</h3>
+						 <div>
+							 <span id="price">
+							 ￥${p.price}
+							 </span>
+							 <p class="ps">此款甜点最适合送女友情人恋人！</p>
+						 </div>
+						 
+						 <p>可选颜色：红<input type="radio" name="color"> 
+						              蓝<input type="radio" name="color"></p>
+						 <p class="sum"> 数量：<button class="btn">-</button> <input type="text" placeholder="1" class="pt" value="1"><button class="btn">+</button></p>
+						 <p><a href="" class="a1">立即购买</a> <a href="" class="a2">加入购物车</a> <a href="" class="a3">收藏</a></p>
+				 </div>
+
+		</div>
+		<div id="lost">
+		
+		  <div class="long">
+		   <img src="img/13.jpg" alt="">
+		   <img src="img/14.jpg" alt="">
+		   <img src="img/15.jpg" alt="">
+		   <img src="img/16.jpg" alt="">
+		   <img src="img/17.jpg" alt="">
+		   <img src="img/19.jpg" alt="">
+		  </div>
+		</a>
+
+      <p>
+	    <a href="">更多美食更多精彩</a>
+
+	  </p>
+		  <p class="nice">
+			  <img src="img/i1.png" alt="">
+				<img src="img/i2.png" alt="">
+				<img src="img/i3.png" alt="">
+				<img src="img/i4.png" alt="">
+   
+     </p>
+</div>
+<div id="rside">
+		    <div id="lxwm">
+				   <a href="" class="a1">
+					   <img src="img/duan1.png" alt="">
+					 </a>
+					 <span class="hidden1">我的账户
+					 </span>
+				</div>
+				<div id="lxwm2">
+				  
+				   <a href="">
+					   <img src="img/duan2.png" alt="">
+					 </a>
+					 <span class="hidden2">我的收藏
+					 </span>
+				</div>
+				<div id="lxwm3">
+				   <a href="">
+					   <img src="img/duan3.png" alt="">
+					 </a>
+					 <span class="hidden3">我的购物车
+					 </span>
+				</div>
+				<div id="lxwm4">
+				   <a href="">
+					   <img src="img/duan4.png" alt="">
+					 </a>
+					 <span class="hidden4">我的账单
+					 </span>
+					 
+				</div>
+				<div id="lxwm5">
+				   <a href="">
+					    <img src="img/duan5.png" alt="">
+					 </a>
+					 <span class="hidden5">二维码
+					 </span>
+				</div>
+		 </div>
+		
+
+
+	  
+  
+		<div id="footer"></div>
+ </body>
+ <script src="js/ajax.js"></script>
+ <script src="js/header.js"></script>
+ <script src="js/shopin.js"></script>
+ <script src="js/footer.js"></script>
+</html>

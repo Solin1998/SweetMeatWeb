@@ -1,0 +1,45 @@
+<!doctype html>
+<html >
+ <head>
+  <meta charset="UTF-8">
+  <title></title>
+	<link rel="stylesheet" href="header.css">
+	<link rel="stylesheet" href="dogcar.css">
+	<link rel="stylesheet" href="foot.css">
+ </head>
+ <body>
+ <header id="header"></header>
+ <div id="dogcar">
+   <table>
+	   <thead>	 
+			 <th>商品</th>
+			 <th>价格</th>
+			 <th>折扣</th>
+			 <th>数量</th>
+			 <th>小计</th>
+			 <th>操作</th>
+		 </thead>
+		 <tbody id="sub">
+		   <!-- <td>${p.iid}</td>
+				<td>${p.ename}</td>
+				<td>${p.price}</td>
+				<td>0.7</td>
+				<td>${p.count}</td>
+				<td><button>X</button></td>-->
+		 </tbody>
+		 <tfoot>
+		    <td><a href="evenlist.html">继续购物</a></td>
+		    <td>总计金额</td>
+		    <td >￥<a href="script:;"id="payfor" style="text-decoration:none;color:red">0</a></td>
+				<td><button>确认支付</button></td>
+		 </tfoot>
+	 </table>
+ </div>
+
+ <footer id="footer"></footer> 
+ </body>
+ <script src="js/ajax.js"></script>
+ <script src="js/header.js"></script>
+ <script src="js/dogcar.js"></script>
+ <script src="js/footer.js"></script>
+</html>

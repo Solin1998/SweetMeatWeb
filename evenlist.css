@@ -1,0 +1,144 @@
+a{text-decoration:none;}
+#list{
+      width:960px;
+	  height:800px;
+	 
+	  margin :0 auto;
+	  margin-top:30px;
+	  background:#fff;
+	  border-radius:30px;
+	  position:relative;
+	  }
+#list ul{margin:0;
+			  padding:0;
+		margin-top:20px;}
+
+#list li{border:3px solid pink;
+        margin:0;
+        float:left;
+	    list-style: none;
+		width: 160px;
+		height: 50px;
+		text-align: center;
+		line-height: 50px;
+		box-sizing: border-box;
+	    margin-left:20px;
+		border-radius:15px;
+		background:#fff;
+		margin-top:10px;}
+#list li:hover{
+        background:orange;}
+#list .li1:hover>.retui1{
+        display:block;}
+#list .li2:hover>.retui2{
+        display:block;}
+#list .li3:hover>.retui3{
+        display:block;}
+#list .li4:hover>.retui4{
+        display:block;}
+#list .li5:hover>.retui5{
+        display:block;}
+#list li a{
+        text-decoration:none;
+		font-size:20px;
+		font-weight:bold;
+		color:#383838;
+		font-family:"幼圆";
+		}
+#list li .star{
+         color:red;
+
+           }
+#list .retui1,.retui2,.retui3,.retui4,.retui5{
+             width: 165px;
+		     height:300px; 
+			 
+			 display:none;
+			 margin-left:-8px;
+			 margin-top:-26px;
+			 position:relative;
+			 z-index:10}
+#list #cup{
+           width:960px;
+		   height:600px;
+		   display:flex;
+		   flex-wrap:wrap;
+		   justify-content:space-between;
+		   }
+#list .fire1{
+              width:300px;
+			  height:300px;
+			  border-radius:20px;
+			  margin-top:30px;
+			  overflow:hidden;}
+
+#list .fire1 img{
+              width:300px;
+			   height:170px;
+              transition:all 2s; 
+             }
+#list .fire1 img:hover{
+                transform:translate(25px,-15px);}
+#list .fire1  h3{
+              margin-top:-3px;
+			  font-size:22px;
+			  margin-left:100px;
+			  }
+#list .fire1  h4 {
+              margin-top:-10px;
+			  margin-left:100px;
+			  color:red;}
+#list .fire1  h4 a{
+                   color:red;
+				   }
+#list .fire1  p{
+               margin-top:-10px;
+			   margin-left:30px;
+			   }
+#list .fire1  input{
+              width:20px;
+			  margin-left:30px;
+			  vertical-align:bottom;}
+#list .fire1  .a1,.fire1 .a2{
+              display:inline-block;
+              width:20px;
+			  color:#fff;
+			  font-size:22px;
+			  cursor:pointer ;
+			  border-radius:5px;
+			  text-align:center;
+			  margin-left:30px;
+			  background:red;}
+#list .fire1 span{
+                 display:inline-block;
+				 background:red;
+				 border-radius:5px;
+				 color:#fff;
+				 font-size:16px;
+				 cursor:pointer;}
+#page{
+       position:relative;
+	   top:80px;left:300px;}
+#page input{
+        width:10px;}
+
+
+#cart{
+	  width:200px;
+	  background:#aaa;
+      position:fixed;
+	  top:150px;
+}
+#cart p{
+        
+}
+#cart p span{
+       display:inline-block;
+	   width:130px;
+	   font-size:16px;
+	   font-weight:bold;
+	   margin-left:20px;
+	   color:#666
+	   }
+#cart p a{
+          color:#fff;}

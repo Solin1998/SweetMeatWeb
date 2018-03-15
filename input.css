@@ -1,0 +1,27 @@
+#header{
+	width:100%;
+	
+	margin-top:50px;
+	margin-bottom:10px;
+}
+#footer{
+	width:100%;
+	height:400px;
+}
+
+#index{
+      width:960px;
+	  margin:0 auto;
+	  background:url(png/02.jpg)}
+#input{
+       width:360px;
+	   margin:0 auto;
+       text-align:center;
+	   background:#fff;
+	   border:3px solid #613905;
+	   border-radius:15px;
+	   box-shadow:3px 13px black;}
+#input p{
+         font-size:22px;
+		 font-weight:bold;
+		 vertical-align:bottom;}

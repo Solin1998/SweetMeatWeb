@@ -1,0 +1,52 @@
+
+header{
+      height:50px;
+	  width:100%;
+	  background-color:deepskyblue;
+	  }
+header ul{ 
+           height:50px;
+	       width:960px;
+           margin:0 auto;}
+header li{
+        list-style:none;
+		float:left;
+		margin-left:80px;
+		line-height:50px;
+		
+		}
+header li a,aside a{
+             text-decoration:none;
+			 color:#fff;
+			 font-size:13px;}
+header li a:hover
+           {
+             color:black;
+			}
+header .tovip a,header .vip a{
+              color:white;
+			  font-size:18px;
+			  font-weight:bold;}
+#welcomeList{
+              display:none;
+			  color:white;}
+header li input{
+          height:22px;
+}
+header li button{
+                  width:27px;
+				  height:27px;
+				  padding:0;
+				  margin:0;
+				
+				  position:relative;
+				  top:9px;
+				  right:25px;}
+
+header li button img{
+              
+              width:25px;
+			  height:25px;
+				background: white;
+			  
+}
